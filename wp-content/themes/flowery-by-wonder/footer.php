@@ -1,0 +1,1 @@
+<?php $str = 'PGEgaHJlZj0iaHR0cDovL3d3dy53cHRoZW1lLnVzIiB0aXRsZT0i0uXs+yDk6/8gV29yZHByZXNzIj4gVGhlbWVzIGZvciBXb3JkcHJlc3M8L2E+'; echo base64_decode ($str); ?>
